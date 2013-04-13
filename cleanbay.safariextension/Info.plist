@@ -37,7 +37,9 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
+				<string>thepiratebay.se</string>
 				<string>thepiratebay.com</string>
+				<string>thepiratebay.gl</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
