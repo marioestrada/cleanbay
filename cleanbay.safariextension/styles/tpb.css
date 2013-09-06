@@ -1,1 +1,1 @@
-iframe { visibility: hidden !important; }
+iframe { visibility: hidden !important; display: none !important; }
